@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harshit timmanagoudar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit timmanagoudar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harshit-timmanagoudar-829b43212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-timmanagoudar-829b43212/" height="30" width="40" /></a>
 <a href="https://instagram.com/__harshxt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__harshxt" height="30" width="40" /></a>
-<a href="https://medium.com/harshit timmanagoudar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="harshit timmanagoudar" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@harshit.utd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@harshit.utd" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshit_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshit_11" height="30" width="40" /></a>
 </p>
 
