@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Harshit Timmanagoudar</h1>
-<h3 align="center">AI/ ML FREAK</h3>
 
 - 🔭 I’m currently as a **Graduate ML Systems Researcher** @ **STABLE Labs, UC San Diego**
 
