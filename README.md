@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harshit Timmanagoudar</h1>
 <h3 align="center">AI/ ML FREAK</h3>
 
-- 🔭 I’m currently working on **Realistic Face Image Generation from Rough Sketches**
+- 🔭 I’m currently as a **Graduate ML Systems Researcher** @ **STABLE Labs, UC San Diego**
 
-- 👯 I’m looking to collaborate with anyone who loves developing **Computer Vision Projects**
+- 👯 I’m looking to collaborate with anyone who loves developing **ML Systems, Distributed Systems, Computer Vision** projects.
 
-- 🌱 I'm currently learning **Microsoft Azure**
+- 🌱 I'm currently learning **GPU Programming**
 
-- 💬 Ask me about **Computer Vision; TensorFlow**
+- 📫 How to reach me **htimmanagoudar@ucsd.edu or https://www.linkedin.com/in/harshit-timmanagoudar-829b43212/**
 
-- 📫 How to reach me **harshit.utd@gmail.com or https://www.linkedin.com/in/harshit-timmanagoudar-829b43212/**
-
-- 📄 Check out my Resume - [https://drive.google.com/drive/u/0/folders/142-ZR1fFpRwz2le_bbYEGqQOZirsucmj](https://drive.google.com/drive/u/0/folders/142-ZR1fFpRwz2le_bbYEGqQOZirsucmj)
+- 📄 Check out my Resume - [https://drive.google.com/file/d/1zJnLtQ2MGxStvWgCgRRjXyxQ8KvWckDK/view?usp=drive_link](https://drive.google.com/file/d/1zJnLtQ2MGxStvWgCgRRjXyxQ8KvWckDK/view?usp=drive_link)
 
 - ⚡ Fun fact **I find CSS harder than Quantum Physics**
 
