@@ -10,7 +10,7 @@
 
 - 📄 Check out my Resume - [https://drive.google.com/file/d/1zJnLtQ2MGxStvWgCgRRjXyxQ8KvWckDK/view?usp=drive_link](https://drive.google.com/file/d/1zJnLtQ2MGxStvWgCgRRjXyxQ8KvWckDK/view?usp=drive_link)
 
-- ⚡ Fun fact **I find CSS harder than Quantum Physics**
+- ⚡ Fun fact **I find CSS harder than Quantum Computing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
