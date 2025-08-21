@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently as a **Graduate ML Systems Researcher** @ **STABLE Labs, UC San Diego**
 
-- 👯 I’m looking to collaborate with anyone who loves developing **ML Systems, Distributed Systems, Computer Vision** projects.
+- 👯 I’m looking to collaborate with anyone who loves developing **ML Systems, Distributed Systems, Databases & Computer Vision** projects.
 
 - 🌱 I'm currently learning **GPU Programming**
 
